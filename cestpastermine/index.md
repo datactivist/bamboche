@@ -1,5 +1,6 @@
-# La bamboche de Datactivist
-
+---
+layout: post
+title: La bamboche de Datactivist !
 ---
 
 Ca commence jeudi 28 janvier de 17h à 21h, rendez-vous à cette adresse !
