@@ -3,7 +3,7 @@ layout: post
 title: La bamboche de Datactivist !
 ---
 
-Ca commence jeudi 28 janvier de 17h à 21h, rendez-vous à cette adresse !
+C'est jeudi 28 janvier de 17h à 21h, rendez-vous à cette adresse !
 
 En attendant, vous pouvez jouer à PacMan : 
 
