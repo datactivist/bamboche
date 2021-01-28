@@ -1,10 +1,5 @@
----
-layout: post
-title: La bamboche de Datactivist !
----
-
-C'est jeudi 28 janvier de 17h à 21h, rendez-vous à cette adresse !
-
-En attendant, vous pouvez jouer à PacMan : 
-
-<iframe src="https://funhtml5games.com?embed=pacman" style="width:342px;height:490px;border:none;" frameborder="0" scrolling="no"></iframe>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to gather</title>
+<meta http-equiv="refresh" content="0; URL=https://gather.town/app/M2QyRVuLalae4jbA/bamboche">
+<link rel="canonical" href="https://gather.town/app/M2QyRVuLalae4jbA/bamboche">
